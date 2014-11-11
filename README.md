@@ -1,4 +1,6 @@
 Sieve
 =====
 
-quick study of prime sieve of sundaram
+quick study of prime detection (mostly) using the sieve of sundaram
+
+calculations using both R and Julia, for comparison.
